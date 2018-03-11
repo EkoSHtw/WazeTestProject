@@ -1,4 +1,4 @@
-package com.parkbob.wazetestproject;
+package com.eko.wazetestproject;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

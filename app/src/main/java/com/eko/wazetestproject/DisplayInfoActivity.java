@@ -1,4 +1,4 @@
-package com.parkbob.wazetestproject;
+package com.eko.wazetestproject;
 
 import android.content.Intent;
 import android.os.Bundle;

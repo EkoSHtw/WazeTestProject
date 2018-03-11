@@ -1,4 +1,4 @@
-package com.parkbob.wazetestproject;
+package com.eko.wazetestproject;
 
 import org.junit.Test;
 

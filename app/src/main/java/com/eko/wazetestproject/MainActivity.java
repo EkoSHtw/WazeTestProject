@@ -1,4 +1,4 @@
-package com.parkbob.wazetestproject;
+package com.eko.wazetestproject;
 
 import android.app.PendingIntent;
 import android.content.Intent;
